@@ -1,5 +1,5 @@
 # Brawler Unreal
-Nino Masseteau et Maël Jammet
+[Nino Masseteau](https://github.com/Elmea) et [Maël Jammet](https://github.com/ViridiansF)
 
 ## Concept
 Le joueur prend le contrôle du nain bleu et doit vaincre les 5 nains rouges. Le joueur a 5 points de vie (par défaut) et les ennemies 3. 
